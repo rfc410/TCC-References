@@ -5,6 +5,7 @@ Referências sobre progressive web apps espalhadas pela web.
 **O que são progressive web apps?**
 * [https://developers.google.com/web/progressive-web-apps/](https://developers.google.com/web/progressive-web-apps/)
 * [https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx](https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx)
+* [https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/](https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/)
 
 **Começando com PWA's**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
@@ -13,9 +14,12 @@ Referências sobre progressive web apps espalhadas pela web.
 **O declínio do uso de apps nativos**
 * [http://www.go2web.com.br/pt-BR/blog/a-morte-do-aplicativo.html](http://www.go2web.com.br/pt-BR/blog/a-morte-do-aplicativo.html)
 * [http://www.proxxima.com.br/home/proxxima/blog-do-pyr/2016/06/02/prepare-o-seu-adeus-aos-apps.html](http://www.proxxima.com.br/home/proxxima/blog-do-pyr/2016/06/02/prepare-o-seu-adeus-aos-apps.html)
+* [http://m.mobiletime.com.br/news/455005](http://m.mobiletime.com.br/news/455005)
+* [http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber](http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber)
 
 **Desafios**
 * [https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/)
+* [https://imasters.com.br/desenvolvimento/introducao-aos-progressive-web-apps/](https://imasters.com.br/desenvolvimento/introducao-aos-progressive-web-apps/)
 
 ## Estudos de Caso
 
