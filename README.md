@@ -16,6 +16,8 @@ Referências sobre progressive web apps espalhadas pela web.
 * [http://www.proxxima.com.br/home/proxxima/blog-do-pyr/2016/06/02/prepare-o-seu-adeus-aos-apps.html](http://www.proxxima.com.br/home/proxxima/blog-do-pyr/2016/06/02/prepare-o-seu-adeus-aos-apps.html)
 * [http://m.mobiletime.com.br/news/455005](http://m.mobiletime.com.br/news/455005)
 * [http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber](http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber)
+* [http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/](http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/)
+* [http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/](http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/)
 
 **Desafios**
 * [https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/)
