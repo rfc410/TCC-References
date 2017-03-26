@@ -2,10 +2,14 @@
 
 Referências sobre progressive web apps espalhadas pela web.
 
+**A diferença entre nativo, híbrido e web app**
+* [http://www.luisaambros.com/blog/diferenca-entre-aplicativos-nativos-hibridos-e-mobile-web-apps/](http://www.luisaambros.com/blog/diferenca-entre-aplicativos-nativos-hibridos-e-mobile-web-apps/)
+
 **O que são progressive web apps?**
 * [https://developers.google.com/web/progressive-web-apps/](https://developers.google.com/web/progressive-web-apps/)
 * [https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx](https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx)
 * [https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/](https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/)
+* [https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531](https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531)
 
 **Começando com PWA's**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
@@ -18,6 +22,7 @@ Referências sobre progressive web apps espalhadas pela web.
 * [http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber](http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber)
 * [http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/](http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/)
 * [http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/](http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/)
+* [http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8](http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8)
 
 **Desafios**
 * [https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/)
