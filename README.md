@@ -11,9 +11,13 @@ Referências sobre progressive web apps espalhadas pela web.
 * [https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/](https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/)
 * [https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531](https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531)
 
-**Começando com PWA's**
+**Começando com PWAs**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 * [https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/)
+
+**Service Workers**
+* [https://developers.google.com/web/fundamentals/getting-started/primers/service-workers?hl=pt-br](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers?hl=pt-br)
+* [https://www.html5rocks.com/pt/tutorials/appcache/beginner/](https://www.html5rocks.com/pt/tutorials/appcache/beginner/)
 
 **O declínio do uso de apps nativos**
 * [http://www.go2web.com.br/pt-BR/blog/a-morte-do-aplicativo.html](http://www.go2web.com.br/pt-BR/blog/a-morte-do-aplicativo.html)
@@ -23,6 +27,9 @@ Referências sobre progressive web apps espalhadas pela web.
 * [http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/](http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/)
 * [http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/](http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/)
 * [http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8](http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8)
+
+**O crescimento da área de desenvolvimento móvel**
+* [http://g1.globo.com/economia/concursos-e-emprego/noticia/veja-20-profissoes-que-estarao-em-alta-em-2017-segundo-especialistas.ghtml](http://g1.globo.com/economia/concursos-e-emprego/noticia/veja-20-profissoes-que-estarao-em-alta-em-2017-segundo-especialistas.ghtml)
 
 **Desafios**
 * [https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/)
