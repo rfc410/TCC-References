@@ -10,6 +10,7 @@ Referências sobre progressive web apps espalhadas pela web.
 * [https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx](https://medium.com/tableless/introdu%C3%A7%C3%A3o-aos-progressive-web-apps-ad47ba24cddb#.avafy6grx)
 * [https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/](https://www.kinghost.com.br/blog/2016/09/offline-first-progressive-web-apps-no-braziljs-2016/)
 * [https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531](https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531)
+* [https://brasil.uxdesign.cc/o-que-s%C3%A3o-progressive-web-apps-86e1b5306051](https://brasil.uxdesign.cc/o-que-s%C3%A3o-progressive-web-apps-86e1b5306051)
 
 **Começando com PWAs**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
@@ -27,6 +28,12 @@ Referências sobre progressive web apps espalhadas pela web.
 * [http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/](http://www.telesintese.com.br/o-boom-dos-apps-acabou-diz-country-manager-da-baidu-brasil/)
 * [http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/](http://www.b9.com.br/65540/podcasts/braincast/braincast-196-bolha-dos-apps/)
 * [http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8](http://www.businessinsider.com/googles-progressive-web-apps-are-blurring-the-lines-between-apps-and-the-mobile-web-2016-8)
+
+**O crescimento comercial em aplicativos móveis**
+* [http://exame.abril.com.br/negocios/dino/estatisticas-de-uso-de-celular-no-brasil-dino89091436131/](http://exame.abril.com.br/negocios/dino/estatisticas-de-uso-de-celular-no-brasil-dino89091436131/)
+* [http://solvus.com.br/22-estatisticas-do-mercado-de-aplicativos-que-todos-precisam-saber/](http://solvus.com.br/22-estatisticas-do-mercado-de-aplicativos-que-todos-precisam-saber/)
+* [http://www.opus-software.com.br/estatisticas-uso-celular-brasil/](http://www.opus-software.com.br/estatisticas-uso-celular-brasil/)
+* [https://digitalks.com.br/noticias/sociomantic-lanca-infografico-sobre-mercado-mobile-brasileiro/](https://digitalks.com.br/noticias/sociomantic-lanca-infografico-sobre-mercado-mobile-brasileiro/)
 
 **O crescimento da área de desenvolvimento móvel**
 * [http://g1.globo.com/economia/concursos-e-emprego/noticia/veja-20-profissoes-que-estarao-em-alta-em-2017-segundo-especialistas.ghtml](http://g1.globo.com/economia/concursos-e-emprego/noticia/veja-20-profissoes-que-estarao-em-alta-em-2017-segundo-especialistas.ghtml)
