@@ -17,6 +17,10 @@ Referências sobre progressive web apps espalhadas pela web.
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 * [https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/)
 
+**Application Shell**
+* [https://developers.google.com/web/updates/2015/11/app-shell](https://developers.google.com/web/updates/2015/11/app-shell)
+* [https://developers.google.com/web/fundamentals/architecture/app-shell](https://developers.google.com/web/fundamentals/architecture/app-shell)
+
 **Service Workers**
 * [https://developers.google.com/web/fundamentals/getting-started/primers/service-workers?hl=pt-br](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers?hl=pt-br)
 * [https://www.html5rocks.com/pt/tutorials/appcache/beginner/](https://www.html5rocks.com/pt/tutorials/appcache/beginner/)
