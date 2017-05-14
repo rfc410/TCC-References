@@ -12,6 +12,7 @@ Referências sobre progressive web apps espalhadas pela web.
 * [https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531](https://blog.ionic.io/what-is-a-progressive-web-app/?_ga=1.153457531.233872044.1490535531)
 * [https://brasil.uxdesign.cc/o-que-s%C3%A3o-progressive-web-apps-86e1b5306051](https://brasil.uxdesign.cc/o-que-s%C3%A3o-progressive-web-apps-86e1b5306051)
 * [http://conferenciaweb.w3c.br/progressive-web-apps-melhorando-a-experiencia-do-usuario-utilizando-tecnologias-web/](http://conferenciaweb.w3c.br/progressive-web-apps-melhorando-a-experiencia-do-usuario-utilizando-tecnologias-web/)
+* [https://tableless.com.br/anotacoes-sobre-progressive-web-apps/](https://tableless.com.br/anotacoes-sobre-progressive-web-apps/)
 
 **Começando com PWAs**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
