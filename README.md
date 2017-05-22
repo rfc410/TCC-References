@@ -17,6 +17,7 @@ Referências sobre progressive web apps espalhadas pela web.
 **Começando com PWAs**
 * [https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 * [https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/)
+* [https://googlediscovery.com/2017/04/06/twitter-lite-usa-tecnologia-progressive-web-apps-do-google/](https://googlediscovery.com/2017/04/06/twitter-lite-usa-tecnologia-progressive-web-apps-do-google/)
 
 **Application Shell**
 * [https://developers.google.com/web/updates/2015/11/app-shell](https://developers.google.com/web/updates/2015/11/app-shell)
@@ -47,6 +48,7 @@ Referências sobre progressive web apps espalhadas pela web.
 **Desafios**
 * [https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/](https://cloudfour.com/thinks/ios-doesnt-support-progressive-web-apps-so-what/)
 * [https://imasters.com.br/desenvolvimento/introducao-aos-progressive-web-apps/](https://imasters.com.br/desenvolvimento/introducao-aos-progressive-web-apps/)
+* [http://www.techrepublic.com/article/apple-could-lose-billions-on-progressive-web-apps-but-it-has-no-choice/](http://www.techrepublic.com/article/apple-could-lose-billions-on-progressive-web-apps-but-it-has-no-choice/)
 
 ## Estudos de Caso
 
